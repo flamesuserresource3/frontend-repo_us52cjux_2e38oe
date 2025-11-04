@@ -31,7 +31,7 @@ const features = [
 
 const FeatureGrid = () => {
   return (
-    <section className="relative w-full bg-slate-950 py-16 text-white">
+    <section id="features" className="relative w-full bg-slate-950 py-16 text-white">
       <div className="mx-auto max-w-7xl px-6">
         <h2 className="text-center text-3xl font-bold sm:text-4xl">Everything you need to discover the right scheme</h2>
         <p className="mx-auto mt-3 max-w-2xl text-center text-slate-300">
